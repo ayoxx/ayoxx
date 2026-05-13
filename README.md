@@ -40,7 +40,7 @@ Scikit-learn • LLM Applications • RAG Pipelines • Vector Search • MCP In
 Docker • Git • GitHub
 
 **Visualization**  
-Power BI • Tableau
+Power BI • Tableau • Looker
 
 ---
 
@@ -67,7 +67,7 @@ Power BI • Tableau
 
 ## 📫 Connect
 
-- 📧 Email: ayobanjoko@gmail.com
+- 📧 Email: ayobanjoko3@gmail.com
 
 ---
 ⭐ Building scalable data & AI solutions with modern engineering practices.
